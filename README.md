@@ -36,7 +36,6 @@ serve -s build
 
 - compile & build & test
 
-  check the [create-react-app react-scripts](https://github.com/facebook/create-react-app) doc for more information.
 
 - material-ui
 
